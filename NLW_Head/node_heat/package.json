@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@prisma/client": "^3.3.0",
+    "@prisma/engine": "^1.0.18",
     "@prisma/engines": "^3.4.0-2.72c93ea419ec9629aa55b3fc5331f2028d198733",
     "@prisma/migrate": "^3.3.0",
     "axios": "^0.23.0",
